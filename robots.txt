@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://khao-sam-roi-yot-national-park.herokuapp.com/host-https-www.thainationalparks.com/sitemap.xml
+Sitemap: https://khao-sam-roi-yot-national-park.herokuapp.com/sitemap/sitemap.xml
